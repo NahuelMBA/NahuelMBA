@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**NahuelMBA/NahuelMBA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Front-End Development</h4>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind" />
+  </a>
+</p>
+
+<h4>Backend & Databases</h4>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
+
+<h4>Software & Tools</h4>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,postman,npm" />
+  </a>
+</p>
+
+---
+
+### 📫 Contact Me
+
+<p>
+  <a href="mailto:[YOUR-EMAIL@gmail.com]"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  &nbsp;&nbsp;
+  <a href="[LINK-TO-YOUR-DISCORD-OR-LINKEDIN]"><img src="https://skillicons.dev/icons?i=discord" /></a>
+</p>
+
+---
