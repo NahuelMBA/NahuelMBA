@@ -6,7 +6,7 @@
 <h4>Front-End Development</h4>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,astro" />
   </a>
 </p>
 
@@ -23,7 +23,6 @@
     <img src="https://skillicons.dev/icons?i=github,postman,npm" />
   </a>
 </p>
-
 ---
 
 ### 📫 Contact Me
