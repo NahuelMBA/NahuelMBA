@@ -1,7 +1,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technologies
 
 <h4>Front-End Development</h4>
 <p>
