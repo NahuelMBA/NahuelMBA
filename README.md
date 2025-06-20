@@ -29,9 +29,9 @@
 ### 📫 Contact Me
 
 <p>
-  <a href="mailto:[namercado28@gmail.com]"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:namercado28@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   &nbsp;&nbsp;
-  <a href="[https://discord.com/users/1052758482744508457]"><img src="https://skillicons.dev/icons?i=discord" /></a>
+  <a href="https://discord.com/users/1052758482744508457"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 
 ---
