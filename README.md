@@ -31,6 +31,7 @@
   <img src="https://skillicons.dev/icons?i=gmail" /></a>
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=discord" /></a>
+  Discord: nahuuuuuuuu
 </p>
 
 ---
