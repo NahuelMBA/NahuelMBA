@@ -32,6 +32,6 @@ Looking to build a modern and dynamic web presence? I specialize in creating cus
 
 <p>
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" /> Discord: nahuuuuuuuu#1234 </p>
+  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" /> Discord: nahuuuuuuuu </p>
 
 ---
