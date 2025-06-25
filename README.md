@@ -31,8 +31,6 @@ Looking to build a modern and dynamic web presence? I specialize in creating cus
 **Contact me for web creation!**
 
 <p>
-  <a href="mailto:your.email@example.com" target="_blank" rel="noopener noreferrer"> <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=discord" alt="Discord" /> Discord: nahuuuuuuuu#1234 </p>
 
