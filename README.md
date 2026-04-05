@@ -1,4 +1,4 @@
-# Hey, I'm Nahuel Mercado
+# Hey, I'm Nahuel
 
 **Front-End Developer** based in Argentina. I build fast websites, interactive dashboards, and automation bots — from idea to live product.
 
