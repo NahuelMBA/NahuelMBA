@@ -2,11 +2,13 @@
 
 **Front-End Developer** based in Argentina. I build fast websites, interactive dashboards, and automation bots — from idea to live product.
 
+🌐 **Portfolio:** [nahuel-portfolio.vercel.app](https://nahuel-portfolio.vercel.app/)
+
 ---
 
 ## About Me
 
-- 9+ projects delivered
+- 10+ projects delivered
 - 2+ years coding
 - Available for freelance work
 - Most projects delivered in 5–10 days
@@ -25,9 +27,11 @@
 
 **Frameworks & Libraries**
 
-![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Motion](https://img.shields.io/badge/-Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 **Tools & Platforms**
@@ -44,6 +48,8 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**Frely — AI WhatsApp SaaS**](https://frely.net/) | SaaS platform with an AI WhatsApp bot for appointments & customer support. Landing + admin dashboard: live metrics, conversations, billing (MercadoPago) and a knowledge base. | Next.js, React, TypeScript, Tailwind |
+| [**Frely Streamers**](https://frely.net/leaderboards) | Complete toolkit for casino streamers: real-time wager leaderboards, a branded virtual casino (watch-to-earn points → rewards), Discord automation and OBS overlays. Bilingual ES/EN. | Next.js, React, TypeScript, Tailwind, Motion |
 | [**Drops-Club Leaderboard**](https://www.drops-club.com/) | Real-time casino wager leaderboard. Tracks top players, live rankings and streamer stats via REST API. | Astro, JS, REST API |
 | [**WagerRace Fnatiz × Rainbet**](https://www.fnatiz.com/) | Custom wager race page with animated countdown, live prize pool and affiliate tracking. | Astro, JS |
 | **La Brasa — Restaurant Website** | Landing page with online menu, reservation form and Google Maps. Mobile-first, SEO optimized. | HTML, CSS, JS |
@@ -63,14 +69,16 @@
 ## Services
 
 - Landing Pages & Websites
-- Dashboards & Analytics
+- SaaS Platforms & Dashboards
 - Discord / WhatsApp Bots
 - Leaderboards & WagerRaces
+- Casino Streamer Tools (overlays, points systems, automation)
 - Custom Projects
 
 ---
 
 ## Contact
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://nahuel-portfolio.vercel.app/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordid.netlify.app/?id=837158312029716490)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NahuelMBA)
