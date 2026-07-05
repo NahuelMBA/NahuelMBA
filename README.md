@@ -52,9 +52,6 @@
 | [**Frely Streamers**](https://frely.net/leaderboards) | Toolkit completo para streamers de casino: leaderboards de wager en tiempo real, casino virtual con tu marca (puntos por mirar → recompensas), automatización de Discord y overlays para OBS. Bilingüe ES/EN. | Next.js, React, TypeScript, Tailwind, Motion |
 | [**Drops-Club Leaderboard**](https://www.drops-club.com/) | Leaderboard de wager de casino en tiempo real. Trackea top players, rankings en vivo y stats de streamers vía REST API. | Astro, JS, REST API |
 | [**WagerRace Fnatiz × Rainbet**](https://www.fnatiz.com/) | Página de wager race con cuenta regresiva animada, pozo de premios en vivo y tracking de afiliados. | Astro, JS |
-| **La Brasa — Web de Restaurante** | Landing con menú online, formulario de reservas y Google Maps. Mobile-first, optimizada para SEO. | HTML, CSS, JS |
-| **Sales Dashboard** | Dashboard de analítica con ingresos, pedidos, productos top y gráficos de conversión. | HTML, CSS, Chart.js |
-| **Iron Peak — Landing de Gimnasio** | Landing de gimnasio con horarios de clases, planes de precios y perfiles de entrenadores. | HTML, CSS, JS |
 
 ## Bots de Discord
 
