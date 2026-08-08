@@ -2,7 +2,7 @@
 
 **Desarrollador Front-End** de Argentina. Construyo sitios web rápidos, dashboards interactivos y bots de automatización — de la idea al producto en vivo.
 
-🌐 **Portfolio:** [nahuel-portfolio.vercel.app](https://nahuel-portfolio.vercel.app/)
+🌐 **Portfolio:** [nahuel-portfolio.vercel.app](https://nahuu.dev/)
 
 ---
 
