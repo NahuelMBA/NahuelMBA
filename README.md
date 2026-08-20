@@ -51,7 +51,7 @@
 | [**Frely — SaaS de WhatsApp con IA**](https://frely.net/) | Plataforma SaaS con un bot de WhatsApp con IA para turnos y atención al cliente. Landing + dashboard de administración: métricas en vivo, conversaciones, facturación (MercadoPago) y base de conocimiento. | Next.js, React, TypeScript, Tailwind |
 | [**Frely Streamers**](https://frely.net/leaderboards) | Toolkit completo para streamers de casino: leaderboards de wager en tiempo real, casino virtual con tu marca (puntos por mirar → recompensas), automatización de Discord y overlays para OBS. Bilingüe ES/EN. | Next.js, React, TypeScript, Tailwind, Motion |
 | [**Drops-Club Leaderboard**](https://www.drops-club.com/) | Leaderboard de wager de casino en tiempo real. Trackea top players, rankings en vivo y stats de streamers vía REST API. | Astro, JS, REST API |
-| [**WagerRace Fnatiz × Rainbet**](https://www.fnatiz.com/) | Página de wager race con cuenta regresiva animada, pozo de premios en vivo y tracking de afiliados. | Astro, JS |
+| [**playermarkertv Web**](https://playermakertv.com/) | Página de wager race con cuenta regresiva animada, pozo de premios en vivo y tracking de afiliados. | Astro, JS |
 
 ## Bots de Discord
 
