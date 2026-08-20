@@ -76,6 +76,6 @@
 
 ## Contacto
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://nahuel-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)]([https://nahuel-portfolio.vercel.app/](https://www.nahuu.dev/))
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordid.netlify.app/?id=837158312029716490)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NahuelMBA)
